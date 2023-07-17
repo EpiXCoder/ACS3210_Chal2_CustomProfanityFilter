@@ -3,6 +3,7 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![downloads](https://img.shields.io/badge/downloads-100%2Fweek-green)
 
+[NPM package available here.](https://www.npmjs.com/package/custom-profanity-filter)
 ## Installation
 npm install custom-profanity-filter
 
