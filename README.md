@@ -1,7 +1,7 @@
 # Profanity Filter
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
-![downloads](https://img.shields.io/badge/downloads-100%2Fweek-green)
+![version](https://img.shields.io/npm/v/custom-profanity-filter.svg)
+![downloads](https://img.shields.io/npm/dm/custom-profanity-filter.svg)
 
 [NPM package available here.](https://www.npmjs.com/package/custom-profanity-filter)
 ## Installation
