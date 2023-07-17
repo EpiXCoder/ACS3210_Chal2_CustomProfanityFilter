@@ -1,13 +1,18 @@
 {
   "name": "custom-profanity-filter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vithusha Ravirajan <vithusha.ravirajan@gmail.com> (http://www.github.com/EpiXCoder)",
   "license": "ISC",
-  "keywords": ["profanity", "filter", "text", "censorship"],
+  "keywords": [
+    "profanity",
+    "filter",
+    "text",
+    "censorship"
+  ],
   "description": "![version](https://img.shields.io/badge/version-1.0.0-blue) ![downloads](https://img.shields.io/badge/downloads-100%2Fweek-green)",
   "devDependencies": {}
 }
